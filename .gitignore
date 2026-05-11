@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Export files
+project_export.txt
