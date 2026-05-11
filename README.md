@@ -49,9 +49,8 @@ infrastructure/terraform/your-project-webapp_micro/
 This Is the Basic (Free) Edition
 This version focuses on EC2 generation — the foundation of cloud infrastructure. It showcases the educational logic and code quality of the full product.
 
-Want the full product?
-👉 Cloud Architect Tutor v7.0
-https://www.usefreelanceflow.com/cloud-architect-tutor.html
+🚀 Want KMS encryption, WAF, CI/CD pipelines, and production modules?
+👉 Get the Pro version: https://www.usefreelanceflow.com/cloud-architect-tutor.html
 
 Full Version Capabilities
 Cloud Architect Tutor v7.0 generates 14 production scenarios across all scales:
